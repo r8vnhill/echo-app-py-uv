@@ -1,0 +1,5 @@
+[project]
+name = "core"
+version = "0.1.0"
+description = "Business logic for the echo app"
+requires-python = ">=3.10"
