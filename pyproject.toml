@@ -1,0 +1,7 @@
+[project]
+name = "echo-app-py-uv"
+version = "0.1.0"
+description = "Proyecto base con uv"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
