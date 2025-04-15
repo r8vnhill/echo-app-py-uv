@@ -1,5 +1,11 @@
 # echo-app-py-uv
 
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue?logo=python)
+![uv](https://img.shields.io/badge/built%20with-uv-6c6cff?logo=python)
+![License: BSD-2](https://img.shields.io/badge/license-BSD--2--Clause-green.svg)
+![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macOS%20%7C%20windows-lightgrey)
+[![View lesson (ES)](https://img.shields.io/badge/ver%20lección-en%20español-blueviolet)](https://dibs.pages.dev/docs/build-systems/init/uv)
+
 This repository contains the initial setup for a modern Python project using [`uv`](https://docs.astral.sh/uv/), a fast and user-friendly tool for managing virtual environments and dependencies via `pyproject.toml`.
 
 > 📘 The accompanying lesson is written in Spanish and can be found at:  
